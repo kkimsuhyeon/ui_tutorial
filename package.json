@@ -6,6 +6,7 @@
 	"private": "true",
 	"workspaces": [
 		"context-menu",
-		"scroll-spy"
+		"scroll-spy",
+		"infinite-scroll"
 	]
 }

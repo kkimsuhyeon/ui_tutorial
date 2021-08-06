@@ -1,0 +1,14 @@
+{
+	"name": "infinite-scroll",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"dev": "yarn webpack serve",
+		"build": "yarn webpack"
+	},
+	"dependencies": {
+		"lorem-ipsum": "^2.0.3",
+		"uuid": "^8.3.2"
+	}
+}

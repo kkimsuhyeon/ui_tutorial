@@ -1,4 +1,5 @@
 import { throttle, debounce } from './util.js';
+import './index.css';
 
 const navElem = document.querySelector('#nav');
 const navItems = Array.from(navElem.children);
@@ -49,8 +50,9 @@ navElem.addEventListener('click', (e) => {
 // window.innerHeight = 화면 크기
 
 */
-//
 
+// intersectionObserver
+/*
 const scrollSpyObserver = new IntersectionObserver(
 	// https://heropy.blog/2019/10/27/intersection-observer/
 	(entries, observer) => {
@@ -84,3 +86,4 @@ navElem.addEventListener('click', (e) => {
 		});
 	}
 });
+*/
