@@ -8,6 +8,7 @@
     "context-menu",
     "scroll-spy",
     "infinite-scroll",
-    "dark-mode"
+    "dark-mode",
+    "stop-watch"
   ]
 }
