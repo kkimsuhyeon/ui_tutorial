@@ -9,6 +9,7 @@
     "scroll-spy",
     "infinite-scroll",
     "dark-mode",
-    "stop-watch"
+    "stop-watch",
+    "tabs"
   ]
 }
